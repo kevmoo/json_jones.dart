@@ -1,0 +1,10 @@
+name: 'json_jones'
+version: 0.0.1
+description: Turn a JSON map into a Dart class stub
+author: Kevin Moore <kevmoo@google.com>
+homepage: https://github.com/kevmoo/json_jones.dart
+environment:
+  sdk: '>=1.9.0 <2.0.0'
+dependencies:
+  browser: '>=0.10.0 <0.11.0'
+  dart_style: ^0.1.8
